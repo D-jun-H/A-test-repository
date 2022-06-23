@@ -2,7 +2,7 @@
 *.d
 
 # Object files
-*.o
+score sheet statistics.o
 *.ko
 *.obj
 *.elf
@@ -13,6 +13,7 @@
 *.exp
 
 # Precompiled Headers
+score sheet statistics.c
 *.gch
 *.pch
 
@@ -29,7 +30,7 @@
 *.dylib
 
 # Executables
-*.exe
+*score sheet statistics.exe
 *.out
 *.app
 *.i*86
